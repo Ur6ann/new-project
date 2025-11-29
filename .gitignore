@@ -1,4 +1,4 @@
-
+бууууу
 echo "__pycache__/" > .gitignore
 echo "*.pyc" >> .gitignore
 echo ".vscode/" >> .gitignore  # якщо користуєтесь VSCode
